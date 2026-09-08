@@ -1,0 +1,73 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[37457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22457,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0sfcmk4jufpqn.js","/_next/static/chunks/29ai9ku5z1pvu.js"],"default"]
+c:I[68027,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/3a-gps6fwqdk7.css","style"]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+6:Tbce,<h2>SILENCE LICENSE 1.0</h2>
+<p>Copyright (c) 2026 SimSool</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to reproduce, install, execute, and redistribute exact and complete copies of the Software, subject to the following conditions:</p>
+<ol>
+<li>NO MODIFICATION OR DERIVATIVE WORKS</li>
+</ol>
+<p>The Software may only be used and redistributed in its original, complete, and unmodified form.</p>
+<p>You may not modify, adapt, translate, reverse engineer, decompile, disassemble, alter, transform, or create derivative works based upon the Software, except to the extent such activities cannot be prohibited under applicable law.</p>
+<p>For the avoidance of doubt, changing configuration files intended by the author to be user-editable does not constitute modification of the Software itself.</p>
+<ol start="2">
+<li>ATTRIBUTION</li>
+</ol>
+<p>Any redistribution of the Software must retain:</p>
+<ul>
+<li>this copyright notice;</li>
+<li>the author&#39;s name or identifier;</li>
+<li>this license notice;</li>
+</ul>
+<p>in their entirety.</p>
+<p>Redistributing only portions of the Software is prohibited.</p>
+<ol start="3">
+<li>NON-COMMERCIAL USE ONLY</li>
+</ol>
+<p>The Software may not be used, distributed, or otherwise exploited for any commercial purpose.</p>
+<p>Commercial purposes include, but are not limited to:</p>
+<ul>
+<li>selling the Software;</li>
+<li>charging fees for access to the Software;</li>
+<li>incorporating the Software into products or services offered for compensation;</li>
+<li>using the Software primarily for business operations or revenue-generating activities.</li>
+</ul>
+<ol start="4">
+<li>TERMINATION</li>
+</ol>
+<p>Any rights granted under this License shall automatically terminate upon violation of any provision of this License.</p>
+<p>Upon termination, you must immediately cease all use, distribution, and possession of copies of the Software.</p>
+<ol start="5">
+<li>GOVERNING LAW AND JURISDICTION</li>
+</ol>
+<p>This License shall be governed by and construed in accordance with the laws of the Republic of Korea, excluding its conflict of law rules.</p>
+<p>To the maximum extent permitted by applicable law, any dispute arising out of or relating to this License shall be subject to the exclusive jurisdiction of the Seoul Central District Court in the Republic of Korea.</p>
+<ol start="6">
+<li>DISCLAIMER OF WARRANTY</li>
+</ol>
+<p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.</p>
+<ol start="7">
+<li>LIMITATION OF LIABILITY</li>
+</ol>
+<p>IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+0:{"P":null,"c":["","ru","legal","license"],"q":"","i":false,"f":[[["",{"children":[["lang","ru","d",null],{"children":["legal",{"children":["license",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3a-gps6fwqdk7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/05-c3ty_6dwfk.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"inter_c15e96cb-module__0bjUvq__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link",null,{"rel":"icon","href":"/icon.png","type":"image/png"}],["$","link",null,{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]]}],["$","body",null,{"className":"font-sans antialiased","suppressHydrationWarning":true,"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":[["$","$1","c",{"children":[null,"$L4"]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"initialLicenses":[{"id":"silence-1.0","name":"SILENCE LICENSE 1.0","date":"June 24, 2026","description":{"ko":"SILENCE 프로덕트에서 기본적으로 사용하는 수정 및 상업적 배포를 엄격히 제한하는 독점 라이센스입니다.","en":"A proprietary license that strictly restricts modifications and commercial redistributions, used by SILENCE products."},"html":"$6"}]}],["$L7","$L8"],"$L9"]}],{},null,false,null]},null,false,"$@a"]},null,false,"$@a"]},null,false,null]},null,false,null],"$Lb",false]],"m":"$undefined","G":["$c",["$Ld"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0WUNGowSw8PHSEUqyeNz_"}
+e:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+14:I[97367,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+7:["$","script","script-0",{"src":"/_next/static/chunks/0sfcmk4jufpqn.js","async":true,"nonce":"$undefined"}]
+8:["$","script","script-1",{"src":"/_next/static/chunks/29ai9ku5z1pvu.js","async":true,"nonce":"$undefined"}]
+9:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+11:[]
+a:"$W11"
+b:["$","$1","h",{"children":[null,["$","$L12",null,{"children":"$L13"}],["$","div",null,{"hidden":true,"children":["$","$L14",null,{"children":["$","$f",null,{"name":"Next.Metadata","children":"$L15"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3a-gps6fwqdk7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+4:["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/05-c3ty_6dwfk.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+10:null
+15:[["$","title","0",{"children":"Silence Hub"}],["$","meta","1",{"name":"description","content":"From the Minecraft mod ecosystem to high-performance desktop apps, Windows optimization communities, and convenience features for developers. Stop heavy computations. Experience highly refined efficiencies."}],["$","meta","2",{"name":"keywords","content":"silence,hub,dev,utils,simsool,hypixel,skyblock,mod,forge,fabric,1.8.9,1.21.11,26.1.2,26.2,26.3,27.1,silenceutils,silenceextra,auto,click,macro,mining,foraging,garden,farming,combat,dungeon,maxor,storm,goldor,necron,witherking,f3,f4,f5,f6,f7,m4,m5,m6,m7,hyperion,dragon,fix,scrollable,tooltips,lucent,client,venoux,axion,window,optimize,optimizer,os,performance,fps,boost,stock,desktop,resource,pack"}],["$","meta","3",{"property":"og:title","content":"Silence Hub"}],["$","meta","4",{"property":"og:description","content":"From the Minecraft mod ecosystem to high-performance desktop apps, Windows optimization communities, and convenience features for developers. Stop heavy computations. Experience highly refined efficiencies."}],["$","meta","5",{"property":"og:url","content":"https://silencedev.kro.kr"}],["$","meta","6",{"property":"og:site_name","content":"Silence Hub"}],["$","meta","7",{"property":"og:image","content":"https://silencedev.kro.kr/icon.png"}],["$","meta","8",{"property":"og:image:width","content":"512"}],["$","meta","9",{"property":"og:image:height","content":"512"}],["$","meta","10",{"property":"og:image:alt","content":"Silence Hub"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary"}],["$","meta","13",{"name":"twitter:title","content":"Silence Hub"}],["$","meta","14",{"name":"twitter:description","content":"From the Minecraft mod ecosystem to high-performance desktop apps, Windows optimization communities, and convenience features for developers. Stop heavy computations. Experience highly refined efficiencies."}],["$","meta","15",{"name":"twitter:image","content":"https://silencedev.kro.kr/icon.png"}],["$","link","16",{"rel":"shortcut icon","href":"/icon.png"}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.1_1q-mbo48-5w.ico","sizes":"1024x1024","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","sizes":"any"}],["$","link","19",{"rel":"icon","href":"/icon.png","type":"image/png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","type":"image/png"}],["$","link","21",{"rel":"apple-touch-icon","href":"/icon.png","type":"image/png"}],["$","$L16","22",{}]]
