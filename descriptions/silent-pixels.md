@@ -1,0 +1,1 @@
+Silent Pixels cleans up default Minecraft textures into flat, soft, high-visibility pixels. It dramatically reduces visual clutter, making it highly preferred for PvP, competitive minigames, and hardware with limited VRAM.
