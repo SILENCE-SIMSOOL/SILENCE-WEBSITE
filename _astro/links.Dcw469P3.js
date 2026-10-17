@@ -1,0 +1,1 @@
+var e={discord:`https://discord.gg/2Zt8HDksJs`,github:`https://github.com/SILENCE-SIMSOOL`,hub:`https://silencedev.mysellauth.com/`,desktopApp:`https://silencedev.mysellauth.com/products/desktop-app`};export{e as t};

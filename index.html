@@ -1,0 +1,34 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" href="/icon.png"><title>Silence Hub</title><meta name="description" content="Next-generation utilities and tools tailored for developers and gamers."><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3315122838042047" crossorigin="anonymous"></script><link rel="stylesheet" href="/_astro/Layout.CRWRWlkg.css"></head><body class="font-sans antialiased"><div class="min-h-screen bg-[#0B0B0F] text-[#E4E4E7] flex items-center justify-center"><div class="text-sm text-zinc-500">Redirecting...</div></div><script>
+		(function () {
+			var supportedLangs = ['en', 'ko', 'ja', 'zh', 'ru', 'he'];
+			var targetLang = 'en';
+			var cookieLangFound = false;
+
+			try {
+				var cookies = document.cookie.split(';');
+				for (var i = 0; i < cookies.length; i++) {
+					var parts = cookies[i].trim().split('=');
+					if (parts[0] === 'silence_lang' && supportedLangs.indexOf(parts[1]) !== -1) {
+						targetLang = parts[1];
+						cookieLangFound = true;
+						break;
+					}
+				}
+			} catch (e) {}
+
+			if (!cookieLangFound) {
+				try {
+					var nav = (navigator.language || navigator.userLanguage || '').split('-')[0].toLowerCase();
+					if (supportedLangs.indexOf(nav) !== -1) {
+						targetLang = nav;
+					}
+				} catch (e) {}
+			}
+
+			try {
+				document.cookie = 'silence_lang=' + targetLang + ';path=/;max-age=31536000;SameSite=Lax';
+			} catch (e) {}
+
+			window.location.replace('/' + targetLang);
+		})();
+	</script></body></html>
