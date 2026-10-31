@@ -1,0 +1,1 @@
+"use client";export{t as default}from"./UIUXGuideClient.BXYxf7Mm.js";

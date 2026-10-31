@@ -1,0 +1,11 @@
+{
+	"pack": {
+		"min_format": [75, 0],
+		"max_format": [99, 0],
+		"description": "  §7Fixes broken textures\n  §fBy §bSimSool"
+	},
+	"meta": {
+		"version": ["v1.0.1", "mc:1.21.11+"],
+		"discord": "https://discord.gg/2Zt8HDksJs"
+	}
+}
