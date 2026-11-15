@@ -1,0 +1,1 @@
+"use client";export{t as default}from"./Header.Cp_VQPC6.js";
